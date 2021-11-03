@@ -1,7 +1,6 @@
-Usage (assumes the script is called prob.py, and you're running it in that directory)
-https://twitter.com/ESYudkowsky/status/1455930656991559681
-
-$ git clone 
+Usage:
+$ git clone https://github.com/lhorgan/WHERE.IS.MY.CHARGER.git
+$ cd WHERE.IS.MY.CHARGER/
 $ python3
 >> import prob as p
 >> p.go(4, 0.8, 100)
